@@ -28,6 +28,8 @@ public class InputMessage extends Base {
 		get_total.click();
 		
 		
+
+		
 	}
 
 }
